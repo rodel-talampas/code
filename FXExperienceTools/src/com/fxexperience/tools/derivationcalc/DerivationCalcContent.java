@@ -1,9 +1,8 @@
 package com.fxexperience.tools.derivationcalc;
 
-import com.fxexperience.javafx.scene.control.colorpicker.ColorPicker;
-import com.sun.javafx.Utils;
 import java.net.URL;
 import java.util.ResourceBundle;
+
 import javafx.beans.binding.StringBinding;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
@@ -16,6 +15,9 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Region;
 import javafx.scene.paint.Color;
+
+import com.fxexperience.javafx.scene.control.colorpicker.ColorPicker;
+import com.sun.javafx.util.Utils;
 
 /**
  * @author Jasper Potts
